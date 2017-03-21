@@ -1,4 +1,4 @@
-# Hachintosh_T430
+# Hackintosh_T430
 Collection Kext and file config.plist
 
 
