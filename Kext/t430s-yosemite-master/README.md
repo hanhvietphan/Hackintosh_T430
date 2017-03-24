@@ -38,3 +38,8 @@ you use MacBookPro9,2.
 * BT (Kernel panic at boot with all kexts I tried)
 * VGA (Will never work since Apple removed VGA support)
 * Integrated WLAN card (No kext available)
+
+
+#####
+* XXX
+* XXXX
